@@ -1,0 +1,15 @@
+{
+  "name": "chiamtravel",
+  "version": "1.0.0",
+  "description": "I want to travel T_T",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chiamyunqing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2"
+  }
+}
