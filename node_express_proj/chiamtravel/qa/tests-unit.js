@@ -1,4 +1,4 @@
-var quote = require('../../lib/quotes.js');
+var quote = require('../lib/quotes.js');
 var expect = require('chai').expect;
 
 suite('Quote tests', function() {

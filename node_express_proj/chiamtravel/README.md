@@ -1,9 +1,5 @@
 # ChiamTravel
 
-This project was done with the help of "Web Development with Node and Express by Ethan Brown(O'Reilly)" BOOK (yes, book). (published in 2014 so I still kept to CommonJS modules instead)
+*We travel not to escape life but for life not to escape us*
 
-Quenched my thirst for travelling partially using Express, Handlebars(for views). 
-
-lib folder for modules, public folder for stuff served to client, public/vendor for hands-off code
-
-Append /?test=1 to run test
+This project was done with the help of "Web Development with Node and Express by Ethan Brown(O'Reilly)" book. Site is not complete because I'm just brushing up on Node and Express.
