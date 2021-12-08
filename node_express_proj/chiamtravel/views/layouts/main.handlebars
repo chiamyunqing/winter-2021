@@ -5,10 +5,18 @@
         {{#if showTests}}
             <link rel="stylesheet" href="/vendor/mocha.css">
         {{/if}}
+        <link rel="stylesheet" href="/css/main.css">
         <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
     </head>
     <body>
         <header><img src="/img/logo.png" alt="Chiam Travel Logo" width="70%" height="50%"></header>
+        <ul>
+            <li><a class="active" href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/newsletter">Newsletter</a></li>
+            <li><a href="/vacations">Vacations</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
         {{{body}}}
         {{#if showTests}}
             <div id = "mocha"></div>
