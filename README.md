@@ -1,1 +1,3 @@
-# winter-2021
+npm install -g parcel-bundler
+
+parcel index.ts
